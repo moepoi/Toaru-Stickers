@@ -5,9 +5,3 @@ gradle-wrapper.jar
 /gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
-
-# IDE Configuration
-.vscode/
-
-# Key Properties
-key.properties
